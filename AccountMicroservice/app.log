@@ -1,0 +1,120 @@
+2021-06-26 06:43:00,933 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 06:43:00,949 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 06:43:00,954 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 06:43:00,954 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 06:43:00,960 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 06:43:00,961 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 06:56:27,471 INFO AccountMicroservice.Controllers.AccountController - Account Created
+2021-06-26 06:56:36,548 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 06:56:41,492 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-26 06:56:41,494 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-26 06:56:47,443 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 06:57:14,063 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 06:58:32,674 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 06:58:51,235 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 07:07:15,188 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 07:07:15,205 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 07:07:15,233 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 07:07:15,233 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 07:07:15,244 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 07:07:15,244 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 07:11:12,602 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 07:11:53,519 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 07:13:48,030 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 07:13:48,069 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 07:13:48,131 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 07:13:48,131 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 07:13:48,288 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 07:13:48,289 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 07:15:20,086 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 07:15:27,872 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 07:16:02,383 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 07:16:25,826 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 15:56:51,381 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 15:56:51,424 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 15:56:51,495 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 15:56:51,495 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 15:56:51,519 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 15:56:51,519 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 15:58:00,482 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 15:58:29,385 INFO AccountMicroservice.Controllers.AccountController - Account Statement Shown
+2021-06-26 15:58:33,250 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 15:58:41,108 INFO AccountMicroservice.Controllers.AccountController - Account Statement Shown
+2021-06-26 15:59:36,040 INFO AccountMicroservice.Controllers.AccountController - Account Statement Shown
+2021-06-26 15:59:37,931 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:20:37,844 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 17:20:37,920 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 17:20:38,053 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 17:20:38,054 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 17:20:38,091 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 17:20:38,091 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 17:38:09,617 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 17:38:09,705 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 17:38:09,797 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 17:38:09,799 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 17:38:09,862 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 17:38:09,863 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-26 17:39:24,683 INFO AccountMicroservice.Controllers.AccountController - Account Created
+2021-06-26 17:39:39,114 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:40:11,465 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:40:19,439 INFO AccountMicroservice.Controllers.AccountController -  Amount Deposited 
+2021-06-26 17:40:21,151 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:40:29,572 INFO AccountMicroservice.Controllers.AccountController -  Amount Deposited 
+2021-06-26 17:40:32,424 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:40:43,544 INFO AccountMicroservice.Controllers.AccountController - Amount Withdrawn
+2021-06-26 17:40:44,507 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:40:49,032 INFO AccountMicroservice.Controllers.AccountController - Amount Withdrawn
+2021-06-26 17:40:50,739 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:41:11,308 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:41:30,034 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:41:43,159 INFO AccountMicroservice.Controllers.AccountController - Amount Transferred
+2021-06-26 17:41:46,746 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:41:53,478 INFO AccountMicroservice.Controllers.AccountController - Account Statement Shown
+2021-06-26 17:42:33,115 INFO AccountMicroservice.Controllers.AccountController - Account Statement Shown
+2021-06-26 17:42:42,177 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-26 17:42:47,578 INFO AccountMicroservice.Controllers.AccountController - Account Statement Shown
+2021-06-26 17:42:59,113 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account

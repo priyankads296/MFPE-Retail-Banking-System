@@ -1,0 +1,82 @@
+
+INFO  04:56:30 Application started. Press Ctrl+C to shut down.
+INFO  04:56:30 Application started. Press Ctrl+C to shut down.
+INFO  04:56:30 Hosting environment: Development
+INFO  04:56:30 Hosting environment: Development
+INFO  04:56:30 Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+INFO  04:56:30 Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+INFO  04:56:53 Creation of customer is initiated
+2021-06-25 17:00:44,290 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 17:00:44,350 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 17:00:44,705 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 17:00:44,705 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 17:00:45,054 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 17:00:45,055 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 17:02:35,616 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 17:02:35,688 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 17:02:35,864 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 17:02:35,865 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 17:02:35,937 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 17:02:35,937 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 17:02:38,078 INFO CustomerMicroservice.Controllers.CustomerController - Creation of customer is initiated
+2021-06-25 17:02:45,325 INFO CustomerMicroservice.Controllers.CustomerController - New Customer account is created
+2021-06-25 17:03:04,465 INFO CustomerMicroservice.Controllers.CustomerController - Creation of customer is initiated
+2021-06-25 17:03:04,593 INFO CustomerMicroservice.Controllers.CustomerController - New Customer account is created
+2021-06-25 17:09:56,181 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 17:09:56,230 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 17:09:56,329 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 17:09:56,329 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 17:09:56,477 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 17:09:56,477 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 17:10:33,142 INFO CustomerMicroservice.Controllers.CustomerController - Creation of customer is initiated
+2021-06-25 17:10:37,477 INFO CustomerMicroservice.Controllers.CustomerController - New Customer account is created
+2021-06-25 18:42:13,894 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 18:42:13,908 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 18:42:13,925 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 18:42:13,926 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 18:42:13,945 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 18:42:13,945 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 18:49:39,512 INFO CustomerMicroservice.Controllers.CustomerController - Creation of customer is initiated
+2021-06-25 18:49:39,975 INFO CustomerMicroservice.Controllers.CustomerController - New Customer account is created
+2021-06-25 19:39:26,256 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 19:39:26,303 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 19:39:26,325 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 19:39:26,325 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 19:39:26,363 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 19:39:26,363 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 19:43:35,391 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 19:43:35,463 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 19:43:35,480 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 19:43:35,483 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 19:43:35,495 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 19:43:35,495 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 22:14:33,059 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 22:14:33,115 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 22:14:33,149 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 22:14:33,149 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 22:14:33,183 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 22:14:33,183 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 22:45:16,069 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 22:45:16,102 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 22:45:16,123 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 22:45:16,124 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 22:45:16,148 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 22:45:16,148 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 23:16:11,976 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:16:11,988 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:16:11,993 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:16:11,993 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:16:11,996 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 23:16:11,996 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 23:28:24,392 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:28:24,406 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:28:24,415 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:28:24,415 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:28:24,424 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 23:28:24,424 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 23:41:23,809 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:41:23,823 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:41:23,830 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:41:23,830 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:41:23,840 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice
+2021-06-25 23:41:23,840 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\CustomerMicroservice

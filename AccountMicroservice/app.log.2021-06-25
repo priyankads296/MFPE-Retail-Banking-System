@@ -1,0 +1,435 @@
+2021-06-25 17:09:54,104 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 17:09:54,168 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 17:09:54,229 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 17:09:54,229 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 17:09:54,297 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 17:09:54,297 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 17:10:35,273 INFO AccountMicroservice.Controllers.AccountController - Account Created
+2021-06-25 17:12:13,173 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 18:42:12,940 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 18:42:12,971 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 18:42:13,026 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 18:42:13,026 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 18:42:13,059 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 18:42:13,059 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 18:43:49,933 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 18:44:51,975 INFO AccountMicroservice.Controllers.AccountController -  Amount Deposited 
+2021-06-25 18:45:08,639 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 18:45:29,143 INFO AccountMicroservice.Controllers.AccountController - Amount Withdrawn
+2021-06-25 18:45:43,878 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 18:46:14,251 INFO AccountMicroservice.Controllers.AccountController - Amount Transferred
+2021-06-25 18:46:38,340 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 18:46:57,765 INFO AccountMicroservice.Controllers.AccountController - Account Statement Shown
+2021-06-25 18:47:16,705 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 18:47:37,204 INFO AccountMicroservice.Controllers.AccountController -  Amount Deposited 
+2021-06-25 18:47:48,393 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 18:47:57,145 INFO AccountMicroservice.Controllers.AccountController - Amount Withdrawn
+2021-06-25 18:47:59,005 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 18:48:24,994 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 18:49:39,905 INFO AccountMicroservice.Controllers.AccountController - Account Created
+2021-06-25 18:50:19,272 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 19:39:26,174 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 19:39:26,224 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 19:39:26,286 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 19:39:26,286 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 19:39:26,321 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 19:39:26,321 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 19:41:25,044 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 19:43:32,956 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 19:43:33,001 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 19:43:33,035 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 19:43:33,035 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 19:43:33,062 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 19:43:33,062 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 22:14:34,360 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 22:14:34,411 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 22:14:34,452 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 22:14:34,452 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 22:14:34,470 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 22:14:34,470 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 22:45:15,380 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 22:45:15,402 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 22:45:15,423 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 22:45:15,423 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 22:45:15,433 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 22:45:15,433 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 22:49:48,257 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 22:49:53,714 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 22:50:14,134 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 22:50:14,136 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 22:54:49,559 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 22:54:53,539 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 22:54:53,541 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 22:59:52,827 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 22:59:57,391 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 22:59:57,391 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 23:03:47,781 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:03:54,156 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:04:10,980 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 23:04:10,981 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 23:07:40,740 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:07:52,797 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 23:07:52,799 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 23:10:21,189 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:10:37,685 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 23:10:37,686 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 23:16:09,962 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:16:09,979 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:16:09,990 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:16:09,991 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:16:10,005 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 23:16:10,005 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 23:16:27,281 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:28:23,133 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:28:23,144 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:28:23,152 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:28:23,153 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:28:23,161 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 23:28:23,161 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 23:28:23,619 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:28:36,478 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:28:39,551 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:28:44,976 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:28:48,705 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:29:27,988 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:30:13,022 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:35:09,698 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:38:59,251 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:39:19,675 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:40:11,124 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:41:22,171 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:41:22,185 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-25 23:41:22,199 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:41:22,199 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-25 23:41:22,212 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 23:41:22,212 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AccountMicroservice
+2021-06-25 23:48:25,458 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:48:34,593 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 23:48:34,595 ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountMicroservice.Controllers.AccountController.<>c__DisplayClass11_0.<getCustomerAccounts>b__1(CurrentAccount cac) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at System.Collections.Generic.List`1.Find(Predicate`1 match)
+   at AccountMicroservice.Controllers.AccountController.getCustomerAccounts(Int32 id) in D:\CS\PRO\RetailBankSystem-master\AccountMicroservice\Controllers\AccountController.cs:line 110
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-25 23:48:39,455 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:50:08,117 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:50:15,356 INFO AccountMicroservice.Controllers.AccountController -  Amount Deposited 
+2021-06-25 23:51:22,974 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:51:30,209 INFO AccountMicroservice.Controllers.AccountController - Amount Withdrawn
+2021-06-25 23:51:37,912 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:51:49,711 INFO AccountMicroservice.Controllers.AccountController - Amount Transferred
+2021-06-25 23:54:59,138 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:55:04,918 INFO AccountMicroservice.Controllers.AccountController -  Amount Deposited 
+2021-06-25 23:57:52,517 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:58:01,182 INFO AccountMicroservice.Controllers.AccountController -  Amount Deposited 
+2021-06-25 23:58:06,278 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:58:11,544 INFO AccountMicroservice.Controllers.AccountController - Amount Withdrawn
+2021-06-25 23:58:16,185 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:58:23,650 INFO AccountMicroservice.Controllers.AccountController - Amount Transferred
+2021-06-25 23:58:32,711 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:58:38,418 INFO AccountMicroservice.Controllers.AccountController - Account Statement Shown
+2021-06-25 23:58:39,783 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account
+2021-06-25 23:58:40,936 INFO AccountMicroservice.Controllers.AccountController -  Got Customer Account

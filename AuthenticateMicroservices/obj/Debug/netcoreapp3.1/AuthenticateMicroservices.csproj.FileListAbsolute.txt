@@ -1,0 +1,367 @@
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfo.cs
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateMicroservices.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateMicroservices.StaticWebAssets.xml
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.exe
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CopyComplete
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.deps.json
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.json
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.dev.json
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.genruntimeconfig.cache
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cache
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.config
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.exe
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.deps.json
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.json
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.dev.json
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csprojAssemblyReference.cache
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfoInputs.cache
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfo.cs
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CoreCompileInputs.cache
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cs
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cache
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateMicroservices.StaticWebAssets.Manifest.cache
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateMicroservices.StaticWebAssets.xml
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthenticateMicroservices.styles.css
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.RazorTargetAssemblyInfo.cache
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CopyComplete
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.genruntimeconfig.cache
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.StaticWebAssets.xml
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.exe
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.deps.json
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.json
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.dev.json
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.AssemblyReference.cache
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfoInputs.cache
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfo.cs
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateMicroservices.StaticWebAssets.Manifest.cache
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.RazorTargetAssemblyInfo.cache
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CopyComplete
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\Priyanka\Downloads\RetailBankManagement-master\RetailBankManagement-master\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.genruntimeconfig.cache
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.StaticWebAssets.xml
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.exe
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.deps.json
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.json
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.dev.json
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfo.cs
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateMicroservices.StaticWebAssets.Manifest.cache
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.RazorTargetAssemblyInfo.cache
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CopyComplete
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\user\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT(1)\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.genruntimeconfig.cache
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.StaticWebAssets.xml
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.exe
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.deps.json
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.json
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.dev.json
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.AssemblyReference.cache
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfoInputs.cache
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfo.cs
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateMicroservices.StaticWebAssets.Manifest.cache
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.RazorTargetAssemblyInfo.cache
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CopyComplete
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\Priyanka\Downloads\RETAIL BANKING SYSTEM MAIN PROJECT UPDATED\RetailBankSystem-master\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.StaticWebAssets.xml
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.exe
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.deps.json
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.json
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateMicroservices.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CopyComplete
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\Desktop\MFPE 2022\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.config
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.StaticWebAssets.xml
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.exe
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.deps.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.runtimeconfig.dev.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\log4net.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.AutoHistory.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.AssemblyReference.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfoInputs.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.AssemblyInfo.cs
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CoreCompileInputs.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cs
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.MvcApplicationPartsAssemblyInfo.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateMicroservices.StaticWebAssets.Manifest.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.RazorTargetAssemblyInfo.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.csproj.CopyComplete
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.pdb
+D:\MFPE EVALUATION\Retail_Banking _System_Final\AuthenticateMicroservices\obj\Debug\netcoreapp3.1\AuthenticateMicroservices.genruntimeconfig.cache

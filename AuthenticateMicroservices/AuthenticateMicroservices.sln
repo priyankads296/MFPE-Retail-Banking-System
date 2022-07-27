@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticateMicroservices", "AuthenticateMicroservices.csproj", "{17D0F72B-7ADD-42A4-ACC4-7AD40D95F36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D0F72B-7ADD-42A4-ACC4-7AD40D95F36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D0F72B-7ADD-42A4-ACC4-7AD40D95F36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D0F72B-7ADD-42A4-ACC4-7AD40D95F36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D0F72B-7ADD-42A4-ACC4-7AD40D95F36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA95FF00-D8DB-49B0-B950-B7FA4B319FBB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\TransactionMicroservice.exe
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\log4net.config
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\appsettings.Development.json
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\appsettings.json
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\TransactionMicroservice.dll
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\TransactionMicroservice.deps.json
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\TransactionMicroservice.runtimeconfig.json
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\TransactionMicroservice.pdb
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\Newtonsoft.Json.dll
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS\PRO\RetailBankSystem-master\TransactionMicroservice\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

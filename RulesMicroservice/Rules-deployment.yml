@@ -1,0 +1,36 @@
+﻿---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rules-deploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: rulems
+  template:
+    metadata:
+      labels:
+        app: rulems
+    spec:
+      imagePullSecrets:
+      - name: rules
+      containers:
+      - name: rulems-container
+        image: accountmicroacr.azurecr.io/rulesms:latest
+        imagePullPolicy: Always
+        env:
+        ports:
+        - containerPort: 80
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: rules-service
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 80
+  selector:
+    app: rulems

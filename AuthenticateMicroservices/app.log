@@ -1,0 +1,66 @@
+2021-06-26 06:43:01,515 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 06:43:01,532 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 06:43:01,545 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 06:43:01,577 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 06:43:01,580 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 06:43:01,580 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 06:56:01,250 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 06:56:01,253 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generation Initiated
+2021-06-26 06:56:01,495 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generated
+2021-06-26 06:57:14,029 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 06:57:14,029 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generation Initiated
+2021-06-26 06:57:14,030 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generated
+2021-06-26 06:58:32,632 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 06:58:32,633 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generation Initiated
+2021-06-26 06:58:32,634 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generated
+2021-06-26 07:07:16,141 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 07:07:16,160 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 07:07:16,180 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 07:07:16,191 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 07:07:16,208 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 07:07:16,208 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 07:11:02,138 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 07:11:02,139 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generation Initiated
+2021-06-26 07:11:02,286 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generated
+2021-06-26 07:13:49,948 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 07:13:49,964 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 07:13:49,968 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 07:13:49,969 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 07:13:49,976 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 07:13:49,976 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 07:14:57,228 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 07:14:57,229 INFO AuthenticateMicroservices.Controllers.TokenController - Token Denied
+2021-06-26 07:15:04,039 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 07:15:04,040 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generation Initiated
+2021-06-26 07:15:04,163 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generated
+2021-06-26 15:56:48,017 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 15:56:48,048 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 15:56:48,087 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 15:56:48,088 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 15:56:48,134 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 15:56:48,134 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 15:58:00,187 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 15:58:00,188 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generation Initiated
+2021-06-26 15:58:00,345 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generated
+2021-06-26 17:20:38,958 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 17:20:39,020 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 17:20:39,117 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 17:20:39,117 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 17:20:39,159 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 17:20:39,159 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 17:38:11,370 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 17:38:11,385 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-06-26 17:38:11,440 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 17:38:11,442 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-06-26 17:38:11,557 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 17:38:11,557 INFO Microsoft.Hosting.Lifetime - Content root path: D:\CS\PRO\RetailBankSystem-master\AuthenticateMicroservices
+2021-06-26 17:38:42,977 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 17:38:42,978 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generation Initiated
+2021-06-26 17:38:43,118 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generated
+2021-06-26 17:39:54,167 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 17:39:54,167 INFO AuthenticateMicroservices.Controllers.TokenController - Token Denied
+2021-06-26 17:40:05,076 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 17:40:05,076 INFO AuthenticateMicroservices.Controllers.TokenController - Token Denied
+2021-06-26 17:40:11,435 INFO AuthenticateMicroservices.Controllers.TokenController - Login method generated
+2021-06-26 17:40:11,435 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generation Initiated
+2021-06-26 17:40:11,436 INFO AuthenticateMicroservices.Controllers.TokenController - Token Generated

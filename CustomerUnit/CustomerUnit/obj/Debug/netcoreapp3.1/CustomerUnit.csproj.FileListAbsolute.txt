@@ -1,0 +1,272 @@
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\testhost.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.deps.json
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.json
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.dev.json
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\log4net.config
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.exe
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\testhost.exe
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.deps.json
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.runtimeconfig.json
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.runtimeconfig.dev.json
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.pdb
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\log4net.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Moq.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.pdb
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.csprojAssemblyReference.cache
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.AssemblyInfoInputs.cache
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.AssemblyInfo.cs
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.csproj.CoreCompileInputs.cache
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.csproj.CopyComplete
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.dll
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.pdb
+D:\CS\PRO\RetailBankSystem-master\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.genruntimeconfig.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\log4net.config
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\testhost.exe
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\testhost.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.deps.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.dev.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.StaticWebAssets.xml
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.exe
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.deps.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.runtimeconfig.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.runtimeconfig.dev.json
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerUnit.pdb
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\log4net.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Moq.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\bin\Debug\netcoreapp3.1\CustomerMicroservice.pdb
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.csproj.AssemblyReference.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.GeneratedMSBuildEditorConfig.editorconfig
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.AssemblyInfoInputs.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.AssemblyInfo.cs
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.csproj.CoreCompileInputs.cache
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.csproj.CopyComplete
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.dll
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.pdb
+D:\MFPE EVALUATION\Retail_Banking _System_Final\CustomerUnit\CustomerUnit\obj\Debug\netcoreapp3.1\CustomerUnit.genruntimeconfig.cache
